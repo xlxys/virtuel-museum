@@ -2,11 +2,11 @@
 
 a virtuel guide of bastion 23 
 
-DJEBARA ilyes,
-KADRI Mohamed Cherif,
-KADDOURI Nassim,
-GUERMAT Alla,
-KILANI Zohdi.
+DJEBARA ilyes <br />
+KADRI Mohamed Cherif <br />
+KADDOURI Nassim <br />
+GUERMAT Alla <br />
+KILANI Zohdi <br />
 
 ## Getting Started
 
